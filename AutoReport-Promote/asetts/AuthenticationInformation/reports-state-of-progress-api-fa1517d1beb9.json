@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "reports-state-of-progress-api",
+  "private_key_id": "fa1517d1beb96e0d6d2b9283e7a96352994a190a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCm549XI1u/m2NC\nOB7zDSypu4PyRpiRBgG+twAd/eaisaYHnCOjNADLJX+q4rToJDnQHAoqOHKUlOpw\nYVyapVMfbVUNeRW3EZ/qNihVoI2Rw69ZvZploIeRtwl+qsgPqwnZsQoAohPfIYJw\nschgc7L/OJTCOv9z2tUHBYaSgdZBQJXsZbYtZQAvngF5uH2xec1tnk1LPBhYeVj1\nAIZJpIUzMs64N26R2FU8wxbBwkq7AIzfvhSO2qmMpEa5FkdwvrKXiSOFLBNX0GV6\nPtgUrF/uJo1ycPImvx4h6/3urbkCmKB01pCU0WFkn4Trrc8BX2rN3y5emTyPyz5j\n2GVBQB8xAgMBAAECggEAGavEAEMP+YiM28KGABwmonSU9s6k6Klj21GKUxKaRqvM\nPZ9mW9PDy3sZB8+Ww53OxpOJfLTx6qh85owTEjYbctn+GvRkwqOTVRK/YWwwWhse\n/U6MUNVABMmCTFk4LDDCcxkn0LEdHVSqG2s8xpkFDvxE5Rrt74PZABt5d09BBQgK\nXZyvF9lKXWwjIHOu1C2SohzvdnICpMQMyEtyEOAOnmBt4tFJfRUPn5p8EhneBrMg\ni43AFNyFjG/RkEgJI5DhkOgDm3Fht1akXVqQMwrRw9mIbdBVZd53CflqxMEUNMP2\nCWGnPKDXRbABlbkT6WPEYFtveUz53XzNVKL9O/ohgQKBgQDZD5edwX0YVQUhdyEe\ng/uLNyI9Q+N2N6JkE/lhlNhAnyCi0oOZgl0tnmidC99Cvs9Z7scKtpiv+YpMd8Cy\n74oj6gt1VyMs8M0jk+PZH6FeYa8Z/3I16dJ9fI3L+5sB8L+Tt8aMlHm91LN/2fzV\nwKT9M0mShxOLo3cXFMohe7nOjwKBgQDE2JAB9Qn7mDJ2CiOUnbyp1wDmFsAFgwGV\netNGHs0X63XSawGJ7WJzfMasl0KFIFP2BbtqfVJe7zTY7poDjLwly1FGEQ6pOoIl\nwp+7KF6Xhn2kBkb74JW/UG3sGpgtKz2MzlccbQntWhlYoayqW8I0nDbvBe+q9/GK\n0+x9f9oWPwKBgQC+J2e2fxwc5daB08BC4HLMKfen3kJ1fRWZQNpWvzOXoQ/RNESv\nhcIlRcH12sGy0kAKVCEw5HfsqdqbVMmOuES3Y8C4AidBpo6/3T5dJtWSPldMmjku\nu/F3l1cNXRUVZRgfy354B1aDk8PQfGJ/y61+V6DbadQYn5KjuMW/AYnsRwKBgDeK\nDt+ufpmRMLOjWrSk6MVW13cT9ivX8ct2M0Q2jpFwKvcqn+2Fn+CL1RZ/OxKKs4XX\nyjBambIVdei7MZNM0w0q14yYZXWT/4Kd7imFU2MXXD26U67fiADJtaoHOuaLq7sd\nwPBRR5rDcCFUxH3wk9P6O3mnSB8KBAmyj6g9OZBLAoGAYU9ZB4MXZ1yz9oHENTWc\nOBXx4F5uxPa4wMeV5e542Nw5mSsXym2xlUrV9pBRd3MiavJMPSOicUSKQ1YztUVT\nBBphR8sYp7Wro1mECFRFW4BRrM2joIy3rAwQt+JzBgqShEcPUNVrUE0cH5rMi3AJ\nS8k/MjjQx0m82N5oFASHORU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "report-s-state-of-progress-api@reports-state-of-progress-api.iam.gserviceaccount.com",
+  "client_id": "116194463152652262382",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/report-s-state-of-progress-api%40reports-state-of-progress-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

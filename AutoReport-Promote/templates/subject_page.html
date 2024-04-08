@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+    <title>Document</title>
+
+    <link rel="stylesheet" href="http://127.0.0.1:5000/static/subject_page/style.css">
+</head>
+<body>
+    <a href="/">
+        <h3 id="back-home">< すべてのレポート</h3>
+    </a>
+    <h1 class="subject-name">{{ data.subjectName }}</h1>
+    <p id="result-of-notWorked">取り組んでいない課題があと6個残っています</p>
+    <div id="all_reports">
+        <ul>
+            <a href="/subject-page?subject=1">
+                <li id="report-item_1" class="report-item">
+                    <p class="subject-title">【第1回】論理国語</p>
+                    <p class="subject-subtitle">広がる風景／考える手がかかり</p>
+                </li>
+            </a>
+            <a href="/subject-page?subject=1">
+                <li id="report-item_1" class="report-item">
+                    <p class="subject-title">【第2回】論理国語</p>
+                    <p class="subject-subtitle">広がる風景／考える手がかかり</p>
+                </li>
+            </a>
+        </ul>
+    </div>
+
+    <script src="http://127.0.0.1:5000/static/subject_page/script.js"></script>
+</body>
+</html>
